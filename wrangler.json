@@ -15,5 +15,11 @@
     "routes": [
         { "pattern": "nards.party", "custom_domain": true },
         { "pattern": "www.nards.party", "custom_domain": true }
-    ]
+    ],
+	  "d1_databases": [
+    {
+      "binding": "nards_db",
+      "database_id": "c70401a6-4989-4fa0-b46f-cda62a0a4626"
+    }
+  	]
 }
